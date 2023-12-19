@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book xmlns="http://docbook.org/ns/docbook" version="5.0" xml:lang="en-US">
+  <info>
+    <title>???</title>
+    <date remap="dcterms.created">2023-10-25T10:23:05Z</date>
+    <date remap="dcterms.modified">2023-12-19T10:30:16Z</date>
+  </info>
+  <chapter>
+    <title/>
+    <para xml:id="page1R_mcid3">
+      <emphasis role="bold">Introduction</emphasis>
+    </para>
+    <para>I am a Writer/Editor/Technical Writer. My skills are:</para>
+    <para xml:id="page1R_mcid5">Creating engaging copy</para>
+    <para>SEO XML for data exchange and storage</para>
+    <para xml:id="page1R_mcid7">DocBook, DITA, LaTeX, Markdown and other formatting languages Acting as Chief Editor  </para>
+    <para xml:id="page1R_mcid9">
+      <emphasis role="bold">Education</emphasis>
+    </para>
+    <para xml:id="page1R_mcid10"> BA in Anthropology from the University of North TX, 2007</para>
+    <para xml:id="page1R_mcid11"> Certification in Management of Cultural Institutions and Heritage Sites from Bocconi University, 2017</para>
+    <para xml:id="page1R_mcid12"> Certification in Art and Inquiry from MOMA, 2013</para>
+    <para xml:id="page1R_mcid13"> Non-certificate course in XML from the University of Indiana, 2023</para>
+    <para xml:id="page1R_mcid14"> Non-certificate course in DITA from Learningdita.com, 2023</para>
+    <para xml:id="page1R_mcid15">TESOL from ITTT, 2023</para>
+    <para>
+      <emphasis role="bold">Work History </emphasis>
+    </para>
+    <para> Semantique: Content Manager AKA Copywriter, Technical Writer and Digital Marketer in One</para>
+    <para xml:id="page1R_mcid17"> Key functions: Plan and execute all digital marketing, including SEO/SEM, marketing database, email, social media and display advertising campaigns. Technical documentation. Write brand guides. Increase reach for brands in our fold. Technical aspects of SEO like persuading brands to follow WCAG guidelines. Technical writing. Creating PDF files in LaTeX. </para>
+    <para>Achievements: Increased awareness for all brands that use our services. I streamlined our funnel, introduced AGILE concepts to the workflow. Introduced new and effective strategies in digital marketing. Conceptualized new software. Worked with Operations and Development to deploy said software.</para>
+    <para xml:id="page26R_mcid3"> Design, build and maintain our social media presence Copyediting materials for publication</para>
+    <para xml:id="page26R_mcid6"> Measure and report performance of all digital marketing campaigns and assess against goals (ROI, KPIs bounce, rate, time on page, CTR and ETC)</para>
+    <para xml:id="page26R_mcid8"> Authoring in XML, DITA, LaTeX and Markdown for complex API’s, specifically FileAgo’s file security platform, among others like UniMeal</para>
+    <para xml:id="page26R_mcid10"> Identify trends and insights and optimize spend and performance based on the </para>
+    <para xml:id="page26R_mcid11">insights, including but not limited to UX A/B testing</para>
+    <para xml:id="page26R_mcid12"> Constructing surveys using psychological and analytical metrics</para>
+    <para>Using various languages to make the surveys</para>
+    <para>keeping abreast of WCAG guidelines</para>
+    <para xml:id="page26R_mcid13"> April 2018-Feb 2023</para>
+    <para xml:id="page26R_mcid14"> USTalk: Director of Communications AKA Digital Marketing, QA and Copywriter in One</para>
+    <para xml:id="page26R_mcid15"> Key functions: Plan and execute all digital marketing, including SEO/SEM, marketing database, email, social media and display advertising campaigns. Design, based on concepts from psychology, a QA system that measures the efficacy of teachers. Implement that system. Technical documentation.</para>
+    <para xml:id="page26R_mcid18"> Achievements: I crowd-sourced QA. Introduced and streamlined the use of a CRM. Increased awareness of brand. </para>
+    <para xml:id="page26R_mcid20"> Design, build and maintain our social media presence using tools like WordPress</para>
+    <para xml:id="page26R_mcid21"> Copyediting materials for publication</para>
+    <para> Measure and report performance of all digital marketing campaigns and assess against goals using Google analytics as well as other tools</para>
+    <para xml:id="page26R_mcid22"> Identify trends and insights and optimize spend and performance based on the insights, for instance, comparing ROI among advertising on Dave’s ESL Cafe and Timeout Beijing</para>
+    <para xml:id="page26R_mcid24"> Authoring in XML, DITA, LaTeX and Markdown</para>
+    <para>Maintaining a SQL database</para>
+    <para xml:id="page26R_mcid25"> Oct 2016 – April 2018</para>
+    <para xml:id="undefined_Copy_2">Critter Fixer Pet Hospital: Social Media Manager AKA Early Digital Marketer and Copywriter</para>
+    <para xml:id="page48R_mcid1"> Key Functions: Plan and execute all digital marketing, including SEO/SEM, marketing database, email, social media and display advertising campaigns.</para>
+    <para xml:id="page48R_mcid4"> Achievements: Using community guidelines, I removed the company’s negative image from review sites. Introduced SEO to the web site.</para>
+    <para xml:id="page48R_mcid5"> Design, build and maintain our social media presence</para>
+    <para xml:id="page48R_mcid6"> Copyediting materials for publication on our web page</para>
+    <para xml:id="page48R_mcid7"> Measure and report performance of all digital marketing campaigns and assess against goals</para>
+    <para xml:id="page48R_mcid8"> Identify trends and insights and optimize spend and performance based on the insights</para>
+    <para xml:id="page48R_mcid9"> Brainstorm new and creative growth strategies</para>
+    <para xml:id="page48R_mcid10"> Plan, execute and measure experiments and conversion tests</para>
+    <para> Collaborate with internal teams to create landing pages and optimize user experience</para>
+    <para xml:id="page48R_mcid12"> Utilize strong analytical ability to evaluate end-to-end customer experience across multiple channels and customer touch points</para>
+    <para xml:id="page48R_mcid13"> Instrument conversion points and optimize user funnels</para>
+    <para xml:id="page48R_mcid14"> Evaluate emerging technologies</para>
+    <para xml:id="page48R_mcid15"> Provide thought leadership and perspective for adoption where appropriate</para>
+    <para xml:id="page48R_mcid16"> Technical documentation using a variety of XML technologies</para>
+    <para xml:id="page48R_mcid17"> Jun 2013-Oct 2016</para>
+    <para xml:id="page48R_mcid18"> Raindbowbridge Media: Copywriter</para>
+    <para xml:id="page48R_mcid19"> Key functions: Copyediting.</para>
+    <para xml:id="page48R_mcid20"> Achievements: Creatively writing in a variety of styles within a given framework while keeping abreast of trends in content. Research topics for publication. Create content schedule. </para>
+    <para> Copyediting materials for publication on our various web pages</para>
+    <para>Working with client critique</para>
+    <para>SEO based on keyword density </para>
+    <para>Discovering keywords/key phrases</para>
+    <para> Narrative constructing</para>
+    <para xml:id="page76R_mcid3"> Editing</para>
+    <para xml:id="page76R_mcid4"> Dec 2010-Jun 2013</para>
+  </chapter>
+</book>
